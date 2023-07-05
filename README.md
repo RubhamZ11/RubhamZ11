@@ -1,4 +1,4 @@
-![MasterHead](https://flexiple.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3aa447d64e4ffb69c3afe5f6ff92cd06774f0cec/23.jpg)
+![MasterHead](https://i.pinimg.com/originals/89/b4/b1/89b4b109f9e20fab096102b0e3b5c10e.jpg)
 <h1 align="center">Hi 👋, I'm Rubham Soni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
