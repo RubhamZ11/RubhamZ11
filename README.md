@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/89/b4/b1/89b4b109f9e20fab096102b0e3b5c10e.jpg)
 
 <h1 align="center">Hi 👋, I'm Rubham Soni</h1>
-<h3 align="center">Cloud Engineer @ LTIMindtree | AWS | Terraform | DevOps | GenAI</h3>
+<h3 align="center">Cloud Engineer | AWS | Terraform | DevOps | GenAI | </h3>
 
 <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" align="right" width="400"/>
 
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- ☁️ Cloud Engineer at **LTIMindtree**
+- ☁️ Cloud Engineer
 - 🔧 Working on **AWS Infrastructure, Terraform & Automation**
 - ⚙️ Strong in **DevOps | CI/CD | Linux | Networking**
 - 🤖 Exploring **AI/ML & Generative AI integrations in Cloud**
@@ -59,7 +59,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/31383cz36t" target="blank">
+<a href="https://www.geeksforgeeks.org/profile/rubham9555" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
 </p>
